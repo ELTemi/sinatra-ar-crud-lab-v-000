@@ -16,5 +16,5 @@ class ApplicationController < Sinatra::Base
     Post.create()
     erb :index
   end
-  
+
 end
